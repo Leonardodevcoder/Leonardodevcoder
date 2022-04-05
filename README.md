@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Leonardo Luan 🔥
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoluan/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&amp;logo=LinkedIn&amp;logoColor=2867B2&amp;color=0D1117&amp;style=flat-square=white)](https://www.linkedin.com/in/leonardoluan/)
 
 <br/>
 
@@ -13,17 +13,19 @@
 
 
 <div style = "display: inline_block" > 
-<h2>Front-end<h2>
-<img align="center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF" />
-<img align="center" alt="js" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="ts" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br/>
-<h2>Back-end</h2>
-<img align="center" alt="spring"src= https://img.shields.io/badge/springboot-111?style=for-the-badge&amp;logo=springboot&amp;logoColor=white /> 
-<img align="center" alt="Java" src= "https://img.shields.io/badge/Java-111?style=for-the-badge&amp;logo=java&amp;logoColor=white " />  
-<img align="center" alt="MySQL"  src= "https://img.shields.io/badge/mysql-111?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-<img align="center" alt="Postman" src= "https://img.shields.io/badge/postman-111?style=for-the-badge&amp;logo=postman&amp;logoColor=white" /><br/>
+</h4>Tecnologias e Frameworks</h4> <br/>
+<br/>
+
+<img align="center" alt="MySQL"  src= "https://img.shields.io/badge/-Spring-000?&amp;logo=Spring&amp;color=0D1117&amp;style=flat-square=white" /> 
+<img align="center" alt="Java" src= "https://img.shields.io/badge/-Java-000?&amp;logo=Java&amp;logoColor=FF0000&amp;color=0D1117&amp;style=flat-square=white " />  
+<img align="center" alt="MySQL"  src= "https://img.shields.io/badge/-MySQL-000?&amp;logo=MySQL&amp;color=0D1117&amp;style=flat-square=white" />
+<img align="center" alt="Postgres" src= "https://img.shields.io/badge/-PostgreSQL-000?&amp;logo=Postgresql&amp;logoColor=0064A5&amp;color=0D1117&amp;style=flat-square=white" />
+<img align="center" alt="Postman" src= "https://img.shields.io/badge/postman-111?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
+<img align="center" alt="React" src= "https://img.shields.io/badge/-React-000?&amp;logo=React&amp;color=0D1117&amp;style=flat-square=white" />
+<img align="center" alt="Javascript" src= "https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript&amp;color=0D1117&amp;style=flat-square=white" />
+<img align="center" alt="TypeScript" src= "https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript&amp;color=0D1117&amp;style=flat-square=white" />
+
+
 
 
 
